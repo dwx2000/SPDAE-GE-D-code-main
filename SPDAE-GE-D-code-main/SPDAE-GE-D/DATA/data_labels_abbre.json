@@ -1,0 +1,301 @@
+{
+    "adrenalmnist3d": [
+        "NM",
+        "HP"
+    ],
+    "bloodmnist": [
+        "BA",
+        "EO",
+        "ER",
+        "IG",
+        "LY",
+        "MO",
+        "NE",
+        "PL"
+    ],
+    "breastmnist": [
+        "MG",
+        "BG"
+    ],
+    "chestmnist": [
+        "AT",
+        "CA",
+        "EF",
+        "IF",
+        "MA",
+        "NO",
+        "PA",
+        "PT",
+        "CS",
+        "ED",
+        "EM",
+        "FB",
+        "PL",
+        "HE"
+    ],
+    "dermamnist": [
+        "AK",
+        "BC",
+        "BK",
+        "DF",
+        "ME",
+        "MN",
+        "VL"
+    ],
+    "fracturemnist3d": [
+        "BR",
+        "NR",
+        "DR"
+    ],
+    "nodulemnist3d": [
+        "MG",
+        "BG"
+    ],
+    "octmnist": [
+        "CN",
+        "DM",
+        "DR",
+        "NM"
+    ],
+    "organamnist": [
+        "BL",
+        "FL",
+        "FR",
+        "HE",
+        "KL",
+        "KR",
+        "LI",
+        "LL",
+        "LR",
+        "PA",
+        "SP"
+    ],
+    "organcmnist": [
+        "BL",
+        "FL",
+        "FR",
+        "HE",
+        "KL",
+        "KR",
+        "LI",
+        "LL",
+        "LR",
+        "PA",
+        "SP"
+    ],
+    "organmnist3d": [
+        "LI",
+        "KR",
+        "KL",
+        "FR",
+        "FL",
+        "BL",
+        "HE",
+        "LR",
+        "LL",
+        "SP",
+        "PA"
+    ],
+    "organsmnist": [
+        "BL",
+        "FL",
+        "FR",
+        "HE",
+        "KL",
+        "KR",
+        "LI",
+        "LL",
+        "LR",
+        "PA",
+        "SP"
+    ],
+    "pathmnist": [
+        "AD",
+        "BA",
+        "DE",
+        "LY",
+        "MU",
+        "SM",
+        "NC",
+        "CS",
+        "CA"
+    ],
+    "pneumoniamnist": [
+        "NM",
+        "PN"
+    ],
+    "retinamnist": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "synapsemnist3d": [
+        "IS",
+        "ES"
+    ],
+    "tissuemnist": [
+        "CT",
+        "DC",
+        "GE",
+        "IE",
+        "LE",
+        "PO",
+        "PT",
+        "TA"
+    ],
+    "vesselmnist3d": [
+        "VE",
+        "AN"
+    ],
+    "Connectiect": [
+        "H",
+        "M",
+        "CR",
+        "S",
+        "C5",
+        "C4",
+        "C3",
+        "C2",
+        "C1"
+    ],
+    "CWRU": [
+        "NM",
+        "B7",
+        "B14",
+        "B21",
+        "IR7",
+        "IR14",
+        "IR21",
+        "OR7",
+        "OR14",
+        "OR21"
+    ],
+    "JiangNan": [
+        "NM",
+        "IB",
+        "OB",
+        "TB"
+    ],
+    "KAT": [
+        "K",
+        "KA",
+        "KB",
+        "KI"
+    ],
+    "Liyue": [
+        "NM",
+        "B6",
+        "C6",
+        "O6",
+        "B20",
+        "C20",
+        "O20",
+        "B35",
+        "C35",
+        "O35"
+    ],
+    "Ottawa": [
+        "H",
+        "I",
+        "O"
+    ],
+    "Polito": [
+        "NM",
+        "IR45",
+        "IR25",
+        "IR15",
+        "R45",
+        "R25",
+        "R15"
+    ],
+    "Sebear": [
+        "NM",
+        "BA",
+        "CO",
+        "IE",
+        "OE"
+    ],
+    "Segear": [
+        "NM",
+        "CP",
+        "MS",
+        "RT",
+        "SF"
+    ],
+    "WuHan": [
+        "NM",
+        "CR",
+        "UB",
+        "MA"
+    ],
+    "USPS": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+    ],
+    "letter": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "U",
+        "V",
+        "W",
+        "X",
+        "Y",
+        "Z"
+    ],
+    "Norb": [
+        "Animal",
+        "Human",
+        "Plane",
+        "Truck",
+        "Car"
+    ],
+    "MNIST": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+    ],
+    "CoverType": [
+        "SF",
+        "LP",
+        "PP",
+        "CW",
+        "AS",
+        "DF",
+        "KR"
+    ]
+}

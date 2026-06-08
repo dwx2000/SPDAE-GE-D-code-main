@@ -1,0 +1,25 @@
+# Core dependencies extracted from environment.yml
+
+python==3.9.19
+pytorch==2.3.0
+torchvision==0.18.1
+cudatoolkit==11.8.0
+
+numpy==1.26.4
+scipy==1.13.1
+pandas==2.2.2
+scikit-learn==1.5.1
+
+opencv==4.7.0
+pillow==10.4.0
+matplotlib==3.9.2
+
+pyyaml==6.0.1
+tqdm==4.66.5
+
+# Additional project-related pip packages
+imageio==2.37.0
+scikit-image==0.24.0
+seaborn==0.13.2
+medmnist==3.0.2
+fire==0.7.0

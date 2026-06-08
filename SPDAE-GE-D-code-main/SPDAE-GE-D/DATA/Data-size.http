@@ -1,0 +1,43 @@
+普通数据集
+name         n_sample     n_dimensionality
+USPS         11000        16 X 16 = 256
+letter       20000        16      = 16
+Norb         48000        96 X 96 = 9216
+MNIST        60000        28 X 28 = 784
+ijcnn1       141691       22      = 22
+CoverType    581012       54      = 54
+Poker        1025010      10      = 10
+医疗数据集
+name         n_sample     n_dimensionality
+Cancer_RNA   3619         60660   = 60660
+Wong         327457       60      = 60
+MedMNIST数据集
+name           n_sample     n_dimensionality
+bloodmnist     17092        28 X 28 X 3 = 2352
+breastmnist    780          28 X 28     = 784
+chestmnist     91385        28 X 28     = 784
+dermamnist     10015        28 X 28 X 3 = 2352
+octmnist       109309       28 X 28     = 784
+organamnist    58830        28 X 28     = 784
+organcmnist    23583        28 X 28     = 784
+organsmnist    25211        28 X 28     = 784
+pathmnist      13500        28 X 28 X 3 = 2352
+pneumoniamnist 5856         28 X 28     = 784
+retinamnist    1600         28 X 28 X 3 = 2352
+tissuemnist    236386       28 X 28     = 784
+机械故障诊断数据集
+name           n_sample           n_dimensionality
+KAT            200 X 4  = 800     1024
+CWRU           118 X 10 = 1180    1024
+JiangNan       200 X 4  = 800     1024
+Liyue          200 X 10 = 2000    1024
+Ottawa         300 X 3  = 900     1024
+Polito         118 X 7  = 826     1024
+Sebear         500 X 5  = 2500    1024
+Segear         500 X 5  = 2500    1024
+Connectiect    104 X 9  = 936     1024
+WuHan          45  X 4  = 180     1024
+格拉斯曼数据集
+name           n_sample      n_dimensionality
+ETH-80         80
+Traffic

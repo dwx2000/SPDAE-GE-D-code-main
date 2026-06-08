@@ -1,0 +1,134 @@
+常用数据集
+name         from
+USPS         cs
+letter       UCI
+Norb         https://cs.nyu.edu/~ylclab/data/norb-v1.0-small/
+MNIST        http://yann.lecun.com/exdb/mnist/
+ijcnn1       csie
+CoverType    UCI
+Poker        csie
+医疗数据集
+name          from
+Cancer_RNA    TCGA
+Wong          https://figshare.com/s/9c3a0136f12b97f1dadd
+              Etienne Becht, Leland McInnes: Dimensionality reduction for visualizing single-cell data using UMAP
+MedMNIST数据集
+name           from
+bloodmnist     https://github.com/MedMNIST/MedMNIST
+dermamnist     https://zenodo.org/records/10519652/files/pathmnist_64.npz?download=1
+octmnist
+organamnist
+organcmnist
+organsmnist
+pneumoniamnist
+retinamnist
+tissuemnist
+机械故障诊断数据集
+name           from
+Connectiect    https://figshare.com/articles/Gear_Fault_Data/6127874/1
+CWRU           https://github.com/cathysiyu/Mechanical-datasets
+JiangNan       https://github.com/ClarkGableWang/JNU-Bearing-Dataset
+Liyue          http://www02.smt.ufrj.br/~offshore/mfs/page_01.html
+Ottawa         https://data.mendeley.com/datasets/v43hmbwxpm/1
+Polito         ftp://ftp.polito.it/people/DIRG_BearingData/
+Sebear         https://github.com/cathysiyu/Mechanical-datasets
+Segear         https://github.com/cathysiyu/Mechanical-datasets
+WuHan          https://data.mendeley.com/datasets/p9bsmj4xwg/1
+XJU            http://biaowang.tech/xjtu-sy-bearing-datasets/
+MFPT           https://mfpt.org/fault-data-sets/
+IEEE PHM 2012  https://github.com/Lucky-Loek/ieee-phm-2012-data-challenge-dataset
+Cincinnat      https://data.nasa.gov/download/brfb-gzcv/application%2Fzip
+               https://phm-datasets.s3.amazonaws.com/NASA/4.+Bearings.zip
+KAT            https://mb.uni-paderborn.de/kat/forschung/kat-datacenter/bearing-datacenter
+total
+https://blog.csdn.net/Li_RuiQi/article/details/130349776
+https://blog.csdn.net/weixin_39458727/article/details/136320669
+https://blog.csdn.net/woaipythonmeme/article/details/131651410
+https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/
+格拉斯曼数据集
+name         from
+ETH-80       https://github.com/chenchkx/ETH-80
+RGBD         http://rgbd-dataset.cs.washington.edu/dataset/rgbd-dataset/rgbd-dataset.tar
+Traffic      http://www.svcl.ucsd.edu/projects/traffic/
+Virus        https://user.it.uu.se/~gusky180/virustexture/
+HDM-05       https://paperswithcode.com/dataset/hdm05
+             https://resources.mpi-inf.mpg.de/HDM05/
+动作识别数据集：
+Ballet       https://www.cs.sfu.ca/research/groups/VML/semilatent/
+Keck         http://www.zhuolin.umiacs.io/Keckgesturedataset.html
+KTH          https://www.csc.kth.se/cvap/actions/
+             https://paperswithcode.com/dataset/kth
+UCF-sport    https://www.crcv.ucf.edu/data/UCF_Sports_Action.php
+             https://paperswithcode.com/dataset/ucf-sports
+UCF-sport-gt https://github.com/antran89/UCF-Sports-annotations
+UCF-101      https://www.crcv.ucf.edu/data/UCF101.php
+             https://paperswithcode.com/dataset/ucf101
+UT-Kinect    https://paperswithcode.com/dataset/ut-kinect
+             https://cvrc.ece.utexas.edu/KinectDatasets/HOJ3D.html
+UTD-MHAD     https://paperswithcode.com/dataset/utd-mhad
+             https://personal.utdallas.edu/~kehtar/UTD-MHAD.html
+Weizmann     http://www.wisdom.weizmann.ac.il/~vision/SpaceTimeActions.html
+             https://www.wisdom.weizmann.ac.il/~vision/SpaceTimeActions.html#Classification%20Database
+步态识别数据集
+CASIC-B      http://www.cbsr.ia.ac.cn/china/Gait%20Databases%20CH.asp
+             B*
+             https://pan.baidu.com/s/128kEOw00fwDJACJWtfl_4w?pwd=qoz3
+             Extract code：qoz3
+             Zip passward: gaitedge2022
+             A/B/C
+             https://pan.baidu.com/s/1TLbtF-UABaybPwt02TQN9g
+             Extract code：yjws
+             Zip passward: cripac@casia1956
+Gait-3D      https://paperswithcode.com/dataset/gait3d
+             https://drive.google.com/drive/folders/1bR5jPD_YDXqAKHZlorZ3w5QAFistJJ5H?usp=sharing
+             https://pan.baidu.com/s/13rm-0v5OTsOZkwNb4aAYMw
+             Code: ex78
+             https://github.com/Gait3D/Gait3D-Benchmark
+手势识别数据集
+total
+Cambridge Gesture    https://github.com/chhshen/Grassmann
+                     Extrinsic Methods for Coding and Dictionary Learning on Grassmann Manifolds
+EgoHands             http://vision.soic.indiana.edu/projects/egohands/
+                     https://paperswithcode.com/dataset/egohands
+FPHA                 https://imperialcollegelondon.box.com/v/first-person-action-benchmark
+                     password: fpaicvl
+https://zhuanlan.zhihu.com/p/559433603
+人脸数据集
+name           from
+FERET          http://www.nist.gov/itl/iad/ig/feret.cfm
+               https://U9050272:Zc6Ia9Cw74@nigos.nist.gov/colorferet/colorferet.tar
+Yale           https://www.kaggle.com/datasets/olgabelitskaya/yale-face-database
+               https://github.com/bugra/EigenFace
+               https://github.com/Gokulk1994/PCA_Yale_Face_Database
+               https://hyper.ai/datasets/5564
+E Yale B       https://www.kaggle.com/datasets/souvadrahati/extended-yale-dataset-b
+               https://aistudio.baidu.com/datasetdetail/106394
+               https://hyper.ai/datasets/5561
+YTC            https://seqamlab.com/youtube-celebrities-face-tracking-and-recognition-dataset/
+YTF            https://www.cs.tau.ac.il//~wolf/ytfaces/
+               http://www.cslab.openu.ac.il/download/wolftau/
+               password: wtal997
+total
+https://www.face-rec.org/databases/
+http://web.mit.edu/emeyers/www/face_databases.html#yale
+https://blog.csdn.net/lilai619/article/details/51178971
+https://www.cnblogs.com/ocean1100/articles/7283572.html
+https://www.cnblogs.com/GarfieldEr007/p/5519553.html
+https://www.cnblogs.com/kuangqiu/p/7776829.html
+http://www.lvc.ele.puc-rio.br/projects/video_surveillance/databases.html
+hyperspectral Images
+https://engineering.purdue.edu/~biehl/MultiSpec/hyperspectral.html
+https://ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes
+未使用数据集
+name                   from
+HIGGS                  UCI
+RCV1                   csie
+SUSY                   csie
+TV News                UCI
+chaeacter_font_images  UCI
+网址汇总
+cs              https://cs.nyu.edu/~roweis/data.html
+UCI             http://archive.ics.uci.edu/datasets
+csie            https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/
+TCGA            https://portal.gdc.cancer.gov/
+GSE             https://www.ncbi.nlm.nih.gov/
